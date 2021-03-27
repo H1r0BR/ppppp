@@ -1,4 +1,4 @@
-local paste = "https://raw.githubusercontent.com/H1r0BR/ppp/main/mainn"
+local paste = "https://raw.githubusercontent.com/H1r0BR/ppppp/main/mainermain"
 local message = "adaam 1533 add me."
 if not game:IsLoaded() then game.Loaded:wait() end
 
